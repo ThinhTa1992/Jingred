@@ -1,0 +1,383 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	margin: 0;
+	padding: 0;
+}
+.container
+{
+	width: 1100px;
+	height: 3100px;
+	background-color: antiquewhite;
+}
+.one
+{
+	width: 1100px;
+	height: 620px;
+	background-image: url(../images/background-1_01.png)
+
+}
+.one_a
+{
+	width: 10%;
+	height: 10%;
+	
+	
+}
+.one_b
+{
+	width: 100%;
+	height: 90%;
+	color: white;
+	margin-top: 150px;
+}
+button
+{
+	width: 100px;
+	height: 30px;
+	border-bottom-style: groove;
+	
+}
+.menu
+{
+	width:90%;
+	height:10%;
+	margin-left: 220px;
+}
+.menu ul
+{
+	list-style: none;
+	margin-left: 500px;
+}
+.menu ul li
+{
+	float: left;
+	margin: 12px 7px 7px 7px;
+	font-style: normal;
+	
+}
+.menu ul li a
+{
+	text-decoration: none;
+	color: white;
+}
+
+.two
+{
+	width: 1100px;
+	height: 620px;
+	background-color: white;
+	margin: 0px;
+	padding: none;
+}
+.two_a
+{
+	width: 100%;
+	height: 10%;
+	opacity: 0
+
+	
+}
+.two_b
+{
+	width: 100%;
+	height: 90%;
+	
+
+}
+.two_b1
+{
+	width: 415px;
+	height: 330px;
+	float: left
+}
+
+.two_c
+{
+	width: 400px;
+	height: 300px;
+	float: right;
+	text-align: left;
+	margin-top: -70px;
+				
+}
+
+button
+{
+	width: 120px;
+}
+
+.three
+{
+	width: 1100px;
+	height: 620px;
+	background-image: url(../images/background_02.png)
+}
+.three_a
+{
+	width: 100%;
+	height: 10%;
+	
+}
+.three_b
+{
+	width: 50%;
+	height: 90%;
+	
+	float: left
+}
+.three_b01
+{
+	width: 100%;
+	height: 70%;
+	color: white;
+	text-align: left;
+	margin-left: 120px;
+		
+}
+.three_b02
+{
+	width: 100%;
+	height: 30%;
+	
+}
+
+.three_c
+{
+	width: 50%;
+	height: 90%;
+	float: right;
+	
+}
+.three_c01
+{
+	width: 175px;
+	height: 315px;
+	background-image:url(../images/girl_03_03.png)
+}
+.three_c01
+{
+	
+	margin: 100px;
+	animation: bounceInDown 3s infinite;
+
+	
+
+}
+.three_c02
+{
+	width: 220px;
+	height: 420px;
+	background-image: url(../images/phone_03_03.png)
+	
+
+}
+.three_c02
+{
+	margin-top: -470px;
+	margin-left: 72px;
+	animation: bounceInUp 3s infinite;
+
+
+}
+
+.four
+{
+	width: 1100px;
+	height: 620px;
+	background-color: #323c6d;
+	
+}
+.four_z
+{
+	width: 100%;
+	height: 150px;
+	display: flex;
+	justify-content: center;
+		
+}
+
+.four_a
+{
+	width: 270px;
+	height: 150px;
+	margin: 0 2% 0 2%;
+	margin-top: 200px;
+	color: white;
+	float: left;
+		
+}
+.four_b
+{
+	width: 100%;
+	height: 150px;
+	margin-top: 200px;
+	margin-left: 150px;
+		
+}
+
+
+.five
+{
+	width: 1100px;
+	height: 620px;
+	background-image: url(../images/background-final_02.png)
+}
+
+.five_a
+{
+	width: 50%;
+	height: 100%;
+	color:  white;
+	float: left			
+}
+.five_a
+{
+	margin-top: 210px;
+	margin-left: 180px;
+}
+.five_a01
+{
+	width: 150px;
+	height: 150px;
+	float: right;				
+}
+.five_a01
+{
+	margin-top: -56px;
+	margin-right: 180px;
+		
+}
+.five_a02
+{
+	width: 150px;
+	height: 150px;
+	margin-top: 30px;
+				
+}
+.five_b
+{
+	width: 50%;
+	height: 100%;
+	float: right;
+;
+	
+}
+.five_b
+{
+	margin-top: -550px;
+	margin-right: -50px;
+}
+.five_b01
+{
+	width: 120px;
+	height: 20px;
+	background-color: none;
+	float: left;
+	margin-left: 10px;
+	font-size: 10pt;
+	color: white;
+}
+input
+{
+	height: 0.5%;
+	width: 100px;
+	border-width: 0 0 2px 0;
+	border-bottom-color: aliceblue;
+	background: none;
+}
+.five_b02
+{
+	width: 120px;
+	height: 20px;
+	background-color: none;
+	float: left;
+	margin-left: 10px;
+	font-size: 10pt;
+	color: white;
+}
+.five_b02
+{
+	margin-top: -540px;
+	margin-left: 612px
+}
+.five_b02 button
+{
+	width: 150;
+	margin-left: 150px;
+	border-radius: 20px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
